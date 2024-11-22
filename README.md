@@ -19,7 +19,7 @@
 
 - :brain: факт: хочу спать
 - :triumph: хочу есть
-🛠️ Языки и инструменты :
+### 🛠️ Языки и инструменты :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
