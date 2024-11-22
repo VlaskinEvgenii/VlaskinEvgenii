@@ -39,5 +39,5 @@
 ### ⌨️ Наиболее используемые языки :
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?VlaskinEvgenii=anuraghazra" alt=""/>
+    <img src="https://github-readme-stats.vercel.app/api?username=VlaskinEvgenii" alt=""/>
 </div>
