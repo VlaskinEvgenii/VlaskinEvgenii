@@ -1,6 +1,6 @@
 <div id="badges" align = "center">
   <a href= "https://https://vk.com/jgkay">
-    <img src = "https://www.flaticon.com/ru/free-icon/vk-draw-logo_71839?term=vk&page=1&position=1&origin=search&related_id=71839" alt="VK Badge"/>
+    <img src = "https://img.icons8.com/ios-filled/50/vk-com.png" alt="VK Badge"/>
   </a>
 
   <a href= "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
