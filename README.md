@@ -33,5 +33,5 @@
 ### 🏆 Достижения : 
 
 <div>
-  <img src="https://github.com/ryo-ma/github-profile-trophy.vercel.app/?username=VlaskinEvgenii" alt=""/>
+  <img src="https://github-profile-trophy.vercel.app/?VlaskinEvgenii=ryo-ma" alt=""/>
 </div>
