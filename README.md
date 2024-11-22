@@ -41,3 +41,8 @@
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=VlaskinEvgenii" alt=""/>
 </div>
+
+### 📊 Статистика активности : 
+<div>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=VlaskinEvgenii&theme=tokyo-night" alt=""/>
+</div>
