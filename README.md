@@ -1,5 +1,5 @@
 <div id="badges" align = "center">
-  <a href= "https://https://vk.com/jgkay">
+  <a href= "https://vk.com/jgkay">
     <img src = "https://img.icons8.com/ios-filled/50/vk-com.png" alt="VK Badge"/>
   </a>
 
